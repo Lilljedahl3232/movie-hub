@@ -1,0 +1,25 @@
+	{
+  "providerName": "My Roku Channel",
+  "language": "en",
+  "lastUpdated": "2025-04-12T00:00:00+00:00",
+  "movies": [
+    {
+      "id": "fightclub01",
+      "title": "Fight Club",
+      "content": {
+        "dateAdded": "2025-04-12T00:00:00+00:00",
+        "videos": [
+          {
+            "url": "https://drive.google.com/uc?export=download&id=1J_WyATYoZH9qcaX5RNFrjrwmvySFPTom",
+            "quality": "HD"
+          }
+        ],
+        "duration": 7500,
+        "language": "en"
+      },
+      "genres": ["drama"],
+      "thumbnail": "https://via.placeholder.com/300x169.png?text=Fight+Club",
+      "releaseDate": "1999-10-15"
+    }
+  ]
+}
